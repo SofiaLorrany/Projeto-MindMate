@@ -32,27 +32,27 @@ A logo é formada por um **laço do infinito em duas cores**, representando **du
 
 ### Home
 
-<p align="center"> <img src="prints/home.png" alt="Tela Home" width="300"> </p>
+<p align="center"> <img src="prints/home.png" alt="Tela Home" width="200"> </p>
 
 ### Sugestões
 
-<p align="center"> <img src="prints/sugestoes.png" alt="Tela Home" width="300"> </p>
+<p align="center"> <img src="prints/sugestoes.png" alt="Tela Home" width="200"> </p>
 
 ### Progresso
 
-<p align="center"> <img src="prints/progresso.png" alt="Tela de Progresso" width="300"> </p>
+<p align="center"> <img src="prints/progresso.png" alt="Tela de Progresso" width="200"> </p>
 
 ### Perfil
 
-<p align="center"> <img src="prints/seuperfil.png" alt="Tela de Progresso" width="300"> </p>
+<p align="center"> <img src="prints/seuperfil.png" alt="Tela de Progresso" width="200"> </p>
 
 ### Chat
 
-<p align="center"> <img src="prints/chat.png" alt="Tela de Progresso" width="300"> </p>
+<p align="center"> <img src="prints/chat.png" alt="Tela de Progresso" width="200"> </p>
 
 ### Simulado em conjunto
 
-<p align="center"> <img src="prints/simulado.png" alt="Tela de Progresso" width="300"> </p>
+<p align="center"> <img src="prints/simulado.png" alt="Tela de Progresso" width="200"> </p>
 
 ---
 
