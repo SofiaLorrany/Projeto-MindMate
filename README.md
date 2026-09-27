@@ -13,9 +13,13 @@ O **MindMate** é um aplicativo voltado para quem estuda para concurso ou vestib
 A paleta foi escolhida em tons **frios e próximos do monocromático**, pensada para transmitir **calma e tranquilidade** durante o estudo, mesmo com a motivação vindo do parceiro de match.
 
 **Azul-marinho (#1E2A44)**: transmite seriedade, foco e estabilidade.
+
 **Roxo profundo (#4B2E83)**: remete à criatividade e à conexão entre os parceiros de estudo.
+
 **Lilás (#A98BFF)**: usado para destacar botões e elementos interativos.
+
 **Cinza (#606061)**: mantém a interface neutra e equilibrada.
+
 **Lilás claro (#EDE7FF) e branco (#FFFFFF)**: garantem leveza e boa leitura no fundo da interface.
 
 ### Logo
@@ -28,22 +32,27 @@ A logo é formada por um **laço do infinito em duas cores**, representando **du
 
 ### Home
 
-![Tela Home](prints/home.png)
+<p align="center"> <img src="prints/home.png" alt="Tela Home" width="300"> </p>
 
 ### Sugestões
-![Tela de Sugestões](prints/sugestoes.png)
+
+<p align="center"> <img src="prints/sugestoes.png" alt="Tela Home" width="300"> </p>
 
 ### Progresso
-![Tela de Progresso](prints/progresso.png)
+
+<p align="center"> <img src="prints/progresso.png" alt="Tela de Progresso" width="300"> </p>
 
 ### Perfil
-![Tela de Perfil](prints/seuperfil.png)
+
+<p align="center"> <img src="prints/seuperfil.png" alt="Tela de Progresso" width="300"> </p>
 
 ### Chat
-![Tela de Chat](prints/chat.png)
+
+<p align="center"> <img src="prints/chat.png" alt="Tela de Progresso" width="300"> </p>
 
 ### Simulado em conjunto
-![Tela de Simulado](prints/simulado.png)
+
+<p align="center"> <img src="prints/simulado.png" alt="Tela de Progresso" width="300"> </p>
 
 ---
 
